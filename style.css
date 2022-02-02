@@ -1,0 +1,38 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: palegoldenrod;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: lightslategray;
+}
+
+header h3 {
+    color: maroon;
+}
+
+
+table {
+    border: black solid;
+    margin: 0 auto;
+}
+
+h2 {
+    background-color: white;
+    color: tomato;
+}
+
+h3 {
+    text-align: center;
+    color:maroon;
+}
+.tableHeadColor {
+    background-color: blanchedalmond;
+}
